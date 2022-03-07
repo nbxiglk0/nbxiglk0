@@ -11,7 +11,7 @@
 
 2019-2020 -> SecurityOperation@Nsfocus  
 
-2020-2022 -> RedTeam@Ateam@QAX  
+2020-2022 -> RedTeam@Ateam-QAX  
 
 2022 till now -> Security Researcher@360 BugCloud  
 
