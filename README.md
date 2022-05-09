@@ -5,6 +5,9 @@
 🌱 I’m currently learning Web Security&CodeAudit&Vulnerability Exploit&Bug Bounty.  
 
 
+<!--
+**nbxiglk0/nbxiglk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 👯 Career：  
 
 2019 Educated From CUIT  
@@ -14,10 +17,6 @@
 2020-2022 -> RedTeam@Ateam-QAX  
 
 2022 till now -> Security Researcher@360 BugCloud  
-
-<!--
-**nbxiglk0/nbxiglk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
