@@ -11,6 +11,6 @@
 ## CVE 
 |Apache Flume| Apache XML Graphics Batik|Apache NiFi| 
 |  ----  | ----  | ---- |
-| [CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)   | [CVE-2022-44729]()  | [CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)  
+| [CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)   | [CVE-2022-44729](https://lists.apache.org/thread/hco2nw1typoorz33qzs0fcdx0ws6d6j2)  | [CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)  
 ## BugBounty
 [Hackerone](https://hackerone.com/nbxiglk?type=user)
