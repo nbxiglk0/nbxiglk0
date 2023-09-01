@@ -14,5 +14,3 @@
 > Apache XML Graphics Batik: [CVE-2022-44729](https://lists.apache.org/thread/hco2nw1typoorz33qzs0fcdx0ws6d6j2)    
  
 > Apache NiFi: [CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)  
-## BugBounty
-[Hackerone](https://hackerone.com/nbxiglk?type=user)
