@@ -19,5 +19,4 @@
 > >[CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)  
 
 > [OpenRefine](https://openrefine.org/):  
-> >[CVE-2023-41886]()  
-> >[CVE-2023-41887]()
+> >[CVE-2023-41886]() &emsp;[CVE-2023-41887]()
