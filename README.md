@@ -19,4 +19,4 @@
 > >[CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)  
 
 > [OpenRefine](https://openrefine.org/):  
-> >[CVE-2023-41886]() &emsp;[CVE-2023-41887]()
+> >[CVE-2023-41886](https://github.com/advisories/GHSA-qqh2-wvmv-h72m) &emsp;[CVE-2023-41887](https://github.com/advisories/GHSA-p3r5-x3hr-gpg5)
