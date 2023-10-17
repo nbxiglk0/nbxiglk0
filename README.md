@@ -16,4 +16,4 @@
 |3|Apache|[Apache NiFi](https://nifi.apache.org/)|[CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)|
 |4|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41886](https://github.com/advisories/GHSA-qqh2-wvmv-h72m)|
 |5|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41887](https://github.com/advisories/GHSA-p3r5-x3hr-gpg5)|
-|6|Apache|[Apahce Inlong](https://inlong.apache.org/)|[CVE-2023-43668]()|
+|6|Apache|[Apahce Inlong](https://inlong.apache.org/)|[CVE-2023-43668](https://lists.apache.org/thread/16gtk7rpdm1rof075ro83fkrnhbzn5sh)|
