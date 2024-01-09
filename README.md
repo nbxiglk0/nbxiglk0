@@ -11,9 +11,9 @@
 ## CVE 
  | Index | Vendor |  Product | CVE | Type|
  | :-- | :----- |  :-----  | :----- | :-----|
-|1|Apache|[Apache Flume](https://flume.apache.org/index.html)|[CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)|JNDI Inject|
+|1|Apache|[Apache Flume](https://flume.apache.org/index.html)|[CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)|RCE|
 |2|Apache|[Apache XML Graphics Batik](https://xmlgraphics.apache.org/batik/)|[CVE-2022-44729](https://lists.apache.org/thread/hco2nw1typoorz33qzs0fcdx0ws6d6j2)| SSRF|
 |3|Apache|[Apache NiFi](https://nifi.apache.org/)|[CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)|RCE|
-|4|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41886](https://github.com/advisories/GHSA-qqh2-wvmv-h72m)|JDBC URL Attack|
-|5|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41887](https://github.com/advisories/GHSA-p3r5-x3hr-gpg5)|JDBC URL Attack|
-|6|Apache|[Apahce Inlong](https://inlong.apache.org/)|[CVE-2023-43668](https://lists.apache.org/thread/16gtk7rpdm1rof075ro83fkrnhbzn5sh)|Bypass|
+|4|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41886](https://github.com/advisories/GHSA-qqh2-wvmv-h72m)|Arbitrary File Read|
+|5|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41887](https://github.com/advisories/GHSA-p3r5-x3hr-gpg5)|RCE|
+|6|Apache|[Apahce Inlong](https://inlong.apache.org/)|[CVE-2023-43668](https://lists.apache.org/thread/16gtk7rpdm1rof075ro83fkrnhbzn5sh)|Arbitrary File Read|
