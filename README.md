@@ -18,4 +18,4 @@ HackerOne Profile: https://hackerone.com/nbxiglk
 |4|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41886](https://github.com/advisories/GHSA-qqh2-wvmv-h72m)|Arbitrary File Read|
 |5|OpenRefine|[OpenRefine](https://openrefine.org/)|[CVE-2023-41887](https://github.com/advisories/GHSA-p3r5-x3hr-gpg5)|RCE|
 |6|Apache|[Apache Inlong](https://inlong.apache.org/)|[CVE-2023-43668](https://lists.apache.org/thread/16gtk7rpdm1rof075ro83fkrnhbzn5sh)|Arbitrary File Read|
-|7|Apache|[Apache DolphinScheduler](https://dolphinscheduler.apache.org/)|[CVE-2024-23320]()|RCE|
+|7|Apache|[Apache DolphinScheduler](https://dolphinscheduler.apache.org/)|[CVE-2024-23320](https://lists.apache.org/thread/25qhfvlksozzp6j9y8ozznvjdjp3lxqq)|RCE|
