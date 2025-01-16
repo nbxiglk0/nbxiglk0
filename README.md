@@ -7,8 +7,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbxiglk0&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
-## Bug Bounty
-HackerOne Profile: https://hackerone.com/nbxiglk
 ## CVE 
 [CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)
 [CVE-2022-44729](https://lists.apache.org/thread/hco2nw1typoorz33qzs0fcdx0ws6d6j2)  
