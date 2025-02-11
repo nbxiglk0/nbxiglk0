@@ -1,6 +1,5 @@
 ### Hi there 👋,there is nbxiglk.
 
-🔭 I’m currently working in ChengDu.  
 
 🌱 I’m currently learning Web Security&CodeAudit&Vulnerability Exploit&Bug Bounty.  
 
