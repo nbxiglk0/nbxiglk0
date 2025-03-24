@@ -16,3 +16,4 @@
 [CVE-2024-23320](https://lists.apache.org/thread/25qhfvlksozzp6j9y8ozznvjdjp3lxqq)
 [CVE-2024-39899](https://github.com/PrivateBin/PrivateBin/security/advisories/GHSA-mqqj-fx8h-437j)
 [CVE-2024-24780]()
+[CVE-2024-44088]()
