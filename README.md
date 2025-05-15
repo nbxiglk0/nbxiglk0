@@ -15,4 +15,4 @@ H1：https://hackerone.com/nbxiglk
 [Apache DolphinScheduler](https://dolphinscheduler.apache.org/)|[CVE-2024-23320](https://lists.apache.org/thread/25qhfvlksozzp6j9y8ozznvjdjp3lxqq)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-30289](https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html)|
 [PrivateBin](https://github.com/PrivateBin/PrivateBin)|[CVE-2024-39899](https://github.com/PrivateBin/PrivateBin/security/advisories/GHSA-mqqj-fx8h-437j)|
 [Apache Geode](https://geode.apache.org/)|[CVE-2024-44088]()|
-[Apache IotDB](https://iotdb.apache.org/)|[CVE-2024-24780]()|
+[Apache IotDB](https://iotdb.apache.org/)|[CVE-2024-24780](https://lists.apache.org/thread/xphtm98v3zsk9vlpfh481m1ry2ctxvmj)|
