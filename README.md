@@ -4,9 +4,9 @@
 Email: nbxiglk@outlook.com  
 H1：https://hackerone.com/nbxiglk
 ## CVE
-| Product | CVE  |  Product | CVE | Product | CVE | 
-|  :-----  | :----- |  :-----  | :----- |  :-----  | :----- | 
-[Apache Flume](https://flume.apache.org/index.html)|[CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-24446](https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-43566](https://helpx.adobe.com/security/products/coldfusion/apsb25-52.html)
+| Product | CVE  |  Product | CVE |
+|  :-----  | :----- |  :-----  | :----- | 
+[Apache Flume](https://flume.apache.org/index.html)|[CVE-2022-42468](https://lists.apache.org/thread/1ckhmp539zr2nd2rs45pocpywk2d9zvz)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-24446](https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html)|
 [Apache XML Graphics Batik](https://xmlgraphics.apache.org/batik/)|[CVE-2022-44729](https://lists.apache.org/thread/hco2nw1typoorz33qzs0fcdx0ws6d6j2)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-30281](https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html)|
 [Apache NiFi](https://nifi.apache.org/)|[CVE-2023-36542](https://lists.apache.org/thread/swnly3dzhhq9zo3rofc8djq77stkhbof)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-30282](https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html)|
 [OpenRefine](https://openrefine.org/)|[CVE-2023-41886](https://github.com/advisories/GHSA-qqh2-wvmv-h72m)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[ CVE-2025-30284](https://helpx.adobe.com/security/products/coldfusion/apsb25-15.html)|
@@ -16,4 +16,4 @@ H1：https://hackerone.com/nbxiglk
 [PrivateBin](https://github.com/PrivateBin/PrivateBin)|[CVE-2024-39899](https://github.com/PrivateBin/PrivateBin/security/advisories/GHSA-mqqj-fx8h-437j)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-43561](https://helpx.adobe.com/security/products/coldfusion/apsb25-52.html)
 [Apache Geode](https://geode.apache.org/)|[CVE-2024-44088]()|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-43563](https://helpx.adobe.com/security/products/coldfusion/apsb25-52.html)
 [Apache IotDB](https://iotdb.apache.org/)|[CVE-2024-24780](https://lists.apache.org/thread/xphtm98v3zsk9vlpfh481m1ry2ctxvmj)|[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-43564](https://helpx.adobe.com/security/products/coldfusion/apsb25-52.html)
-
+[Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html)|[CVE-2025-43566](https://helpx.adobe.com/security/products/coldfusion/apsb25-52.html)
