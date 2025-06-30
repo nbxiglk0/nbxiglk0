@@ -1,8 +1,11 @@
 ### Hi there 👋,there is nbxiglk.
 
 🌱 I’m currently learning Web Security&CodeAudit&Vulnerability Exploit&Bug Bounty.  
-Email: nbxiglk@outlook.com  
-H1：https://hackerone.com/nbxiglk
+
+📫Email： nbxiglk@outlook.com  
+
+HackerOne：https://hackerone.com/nbxiglk
+
 ## CVE List
 * CVE-2022-42468 CVE-2022-44729 CVE-2023-36542 CVE-2023-41886 CVE-2023-41887 CVE-2023-43668
 * CVE-2024-39899 CVE-2024-44088 CVE-2024-24780 CVE-2024-23320 CVE-2025-24446 CVE-2025-30281
